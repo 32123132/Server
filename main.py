@@ -4,7 +4,8 @@ app = Flask(__name__)
 
 # Временная "база данных" для демонстрации
 registered_users = [
-    "ruslantumbum"
+    "ruslantumbum",
+    "zerobackdoor"
 ]
 
 
